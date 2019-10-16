@@ -169,7 +169,7 @@ if [ "$1" == "crownlte" ]; then
 		git checkout Endurance-Kernel-P
 		git reset --hard
 	elif [ "$2" == "oreo" ]; then
-		git checkout master
+		git checkout Spoon
 		git reset --hard
 	else
 		git checkout "$2"
