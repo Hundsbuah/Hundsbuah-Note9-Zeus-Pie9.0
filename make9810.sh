@@ -26,7 +26,7 @@ UPSTREAM=4\.9\.169
 PIE_OLD_VERSION=2\.0\.10
 PIE_VERSION=2\.0\.11
 OREO_OLD_VERSION=1\.2\.16
-OREO_VERSION=2\.3\.96
+OREO_VERSION=2\.3\.97
 
 # Default Device
 # Used as a backup when no valid device is defined
@@ -34,14 +34,14 @@ DEFAULT_DEVICE=crownlte
 DEFAULT_DEVICE_DIRECTORY="$CROWN_KERNEL_DIRECTORY"
 
 # Kernel Source Paths
-CROWN_KERNEL_DIRECTORY=~/kernels/Note9-Zeus-Pie9.0/
-TOOLCHAINS_DIRECTORY=~/kernels/Note9-Zeus-Pie9.0/toolchains/
+CROWN_KERNEL_DIRECTORY=/home/theboss/kernels/Note9-Zeus-Pie9.0/
+TOOLCHAINS_DIRECTORY=/home/theboss/kernels/Note9-Zeus-Pie9.0/toolchains/
 
 # Android Image Kitchen paths
-AIK_OREO_N960=~/kernels/TW-N960-PIE/
+AIK_OREO_N960=/home/theboss/kernels/TW-N960-PIE/
 
 # Zip directories
-ZIP_OREO_N960=~/kernels/zip-note-pie/
+ZIP_OREO_N960=/home/theboss/kernels/zip-note-pie/
 
 # Password for AIK sudo
 PASSWORD=
